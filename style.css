@@ -1,0 +1,24 @@
+*{
+   padding: 0px;
+   bottom: 0px;
+}
+
+body {
+
+    background-color: aqua;
+}
+
+.container{
+       
+    width: 50%;
+}
+
+h1{
+
+    text-align: center;
+}
+
+button {
+       
+      margin-top: 5px;
+}
